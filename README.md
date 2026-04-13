@@ -1,4 +1,4 @@
-# Bengaluru-Foodtech-Fonsumer-Analytics
+# Bengaluru-Foodtech-Consumer-Analytics
 Analysis and visualization of online food ordering platform data, demographic profiling, and consumer sentiment in Bengaluru
 
 ## Project Overview
